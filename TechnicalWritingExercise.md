@@ -44,11 +44,11 @@ You can get started by downloading a 30-days free trial of the Mac app.
 
 ## Task 3: How to add and modify text in your artboard
 
-1. Click on Insert > Text.
+1. Click on Insert > Text.  
 ![image](https://user-images.githubusercontent.com/63585571/80481603-af4f0c80-894a-11ea-865e-d5ee7d3bf2b5.png)
 2. Click anywhere on your canvas to open a text box.
 3. Type your text in the text box.
-4. To adjust size, font, and style, you can use the Inspector menu.
+4. To adjust size, font, and style, you can use the Inspector menu.   
 ![image](https://user-images.githubusercontent.com/63585571/80482029-6b103c00-894b-11ea-90ad-8ade59c90b46.png)
 5. To move the text, drag and drop the textbox anywhere across your artboard.
 
@@ -57,7 +57,7 @@ You can get started by downloading a 30-days free trial of the Mac app.
 1. Click on Insert > Shape.
 2. Select the type of shape you want to insert.
 3. Click anywhere on your canvas and drag your cursor to insert and adjust the size of the shape.
-4. To adjust fill and border colors, you can use the Inspector menu.
+4. To adjust fill and border colors, you can use the Inspector menu.  
 ![image](https://user-images.githubusercontent.com/63585571/80482785-bf67eb80-894c-11ea-9bd5-9623eaabf13e.png)
 5. To move the shape, drag and drop it anywhere across your artboard.
 
@@ -67,11 +67,11 @@ You can get started by downloading a 30-days free trial of the Mac app.
 2. Click anywhere in the canvas to anchor the first point of your vector shape.
 3. To create a straight line, just click anywhere else in the canvas. This will create two points connected by a straight line.  
 ![image](https://user-images.githubusercontent.com/63585571/80483123-5d5bb600-894d-11ea-94f1-89b423a69df3.png)
-4. To create a curved line, click anywhere else, drag, and adjust the curve of the line until you are satisfied.
+4. To create a curved line, click anywhere else, drag, and adjust the curve of the line until you are satisfied.  
 ![image](https://user-images.githubusercontent.com/63585571/80483148-6ea4c280-894d-11ea-9a2e-0785217a9db3.png)
-5. Keep anchoring points, one after the other, as you draw your shape.
+5. Keep anchoring points, one after the other, as you draw your shape.  
 ![image](https://user-images.githubusercontent.com/63585571/80483466-0a363300-894e-11ea-98ba-62b174a19927.png)
-6. To close the vector into a shape, create your lines and, as a last action, click on the first point you anchored. You can now adjust the color of the borders and also its fill color using the Inspector.
+6. To close the vector into a shape, create your lines and, as a last action, click on the first point you anchored. You can now adjust the color of the borders and also its fill color using the Inspector.  
 ![image](https://user-images.githubusercontent.com/63585571/80483275-b3305e00-894d-11ea-9770-99b0050f4fe6.png)
 
 ## Questions for this assignment
