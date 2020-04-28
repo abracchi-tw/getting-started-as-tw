@@ -9,10 +9,10 @@
 You can get started by downloading a 30-days free trial of the Mac app.
 
 1. Open your Chrome browser.
-2. Navigate to the Sketch Homepage ([sketch.com](https://www.sketch.com/)).
-3. Click on the Try it for free button on the top right corner of the webpage. This will initiate the download of a .zip package, which will appear in the Downloads bar on the bottom of the webpage.
+2. Navigate to the Sketch Homepage ([sketch.com](https://www.sketch.com/)).  
+3. Click on the Try it for free button on the top right corner of the webpage. This will initiate the download of a .zip package, which will appear in the Downloads bar on the bottom of the webpage.  
 ![image](https://user-images.githubusercontent.com/63585571/80481178-dc4eef80-8949-11ea-880e-66c45b2614fa.png)
-4. Click on the arrow on the right side of the file and select Open.
+4. Click on the arrow on the right side of the file and select Open.  
 ![image](https://user-images.githubusercontent.com/63585571/80481135-c7725c00-8949-11ea-8772-ca80904d3a7c.png)
 5. Once the Sketch app appears in your Downloads folder, double-click on it. This will prompt a pop-up window, in which you will be asked to confirm if you want to open Sketch.
 6. On the pop-up window, select Open.
@@ -44,12 +44,12 @@ You can get started by downloading a 30-days free trial of the Mac app.
 
 ## Task 3: How to add and modify text in your artboard
 
-1. Click on Insert > Text.  
-![image](https://user-images.githubusercontent.com/63585571/80481603-af4f0c80-894a-11ea-865e-d5ee7d3bf2b5.png)
+1. Click on Insert > Text.   
+![image](https://user-images.githubusercontent.com/63585571/80481603-af4f0c80-894a-11ea-865e-d5ee7d3bf2b5.png)  
 2. Click anywhere on your canvas to open a text box.
 3. Type your text in the text box.
-4. To adjust size, font, and style, you can use the Inspector menu.   
-![image](https://user-images.githubusercontent.com/63585571/80482029-6b103c00-894b-11ea-90ad-8ade59c90b46.png)
+4. To adjust size, font, and style, you can use the Inspector menu.     
+![image](https://user-images.githubusercontent.com/63585571/80482029-6b103c00-894b-11ea-90ad-8ade59c90b46.png)  
 5. To move the text, drag and drop the textbox anywhere across your artboard.
 
 ## Task 4: How to add and modify shapes in your artboard
