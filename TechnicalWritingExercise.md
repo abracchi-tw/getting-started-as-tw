@@ -73,28 +73,3 @@ You can get started by downloading a 30-days free trial of the Mac app.
 ![image](https://user-images.githubusercontent.com/63585571/80483466-0a363300-894e-11ea-98ba-62b174a19927.png)
 6. To close the vector into a shape, create your lines and, as a last action, click on the first point you anchored. You can now adjust the color of the borders and also its fill color using the Inspector.  
 ![image](https://user-images.githubusercontent.com/63585571/80483275-b3305e00-894d-11ea-9770-99b0050f4fe6.png)
-
-## Questions for this assignment
-* What subject did you describe in your guide?  
-I have described the Sketch software, together with its main interface view and five tasks that a user can do.
-
-* What was easy?
-It was easy to play around the interface and figure out the steps a user may need to know in order to achieve the desired results.
-
-* What was difficult for you?  
-It was difficult to use a clear language that was technical but also accessible to the first-time user.
-
-* Do you have other questions or requests that the instructor can help you with?  
-Any feedback is welcome!
-
-* Do you allow the instructor to use your work as an example to show to other students?  
-Yes  
-
-* Did you send your documentation for review and feedback to jpdocuservices@gmail.com?  
-Yes  
-
-* On a scale of 0 to 10, how likely are you to recommend this course to a friend or colleague?  
-8  
-
-* What was missing or disappointing in your experience with us?  
-I would've liked the slides to be a bit more engaging, with less text and more visual structure.
