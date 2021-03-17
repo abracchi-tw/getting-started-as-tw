@@ -1,2 +1,7 @@
-# getting-started-as-tw
-This is the repo for my first tw project
+# Getting-Started-as-Technical Writer
+
+This is the first project
+
+Based on Technical Writing 
+
+Thanks
