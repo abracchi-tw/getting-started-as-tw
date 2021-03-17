@@ -2,6 +2,6 @@
 
 This is the first project
 
-Thanks and Regards
+Based on Technical Writing 
 
-Tahir
+Thanks
